@@ -1,0 +1,28 @@
+#aboveZero {
+  text-align: center;
+  color: brown;
+  font-family: 'Palatino Linotype';
+  font-size: 18pt;
+}
+
+#zero {
+  text-align: center;
+  color: green;
+  font-family: papyrus;
+  font-size: 18pt;
+}
+
+.jumbotron {
+  text-align: center;
+  font-size: 36px;
+  font-family: copperplate;
+  margin-top: 10px;
+  }
+
+.invite {
+  text-align:center;
+}
+
+.container-fluid {
+  background-color: #ffb31a;
+}
